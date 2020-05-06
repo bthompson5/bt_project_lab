@@ -2,3 +2,4 @@ Title: Working with Git Source Code Management
 This is the beginning of Git training.
 We started on time.
 We are scheduled to end at noon.
+"This is lab 8 - Doug's text"
